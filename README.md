@@ -4,9 +4,14 @@ Hi 👋 My name is João Augusto Venancio
 Backend Software Engineer
 -------------------------
 
-* Experienced Senior Software Engineer with 15+ years of industry experience in developing, integrating, testing and supporting modern, big platforms. \* 15+ years of expertise in Agile/Scrum methodologies in small to mid-sized companies and big enterprises. \* Proven track record for delivering complex platforms such as the OTC Derivatives platform to the Brazilian capital markets (which had 400B dollars in assets by launch). \* In-depth knowledge of a broad range of technologies and practices such as frontend (javascript), backend (java/python), databases (MySQL, PostgreSQL, Snowflake), CI/CD, DevOps and Machine Learning to name a few. \* Skilled and provenly successful in leading cross-functional teams in creating and delivering mission-critic platforms while continually providing mentorship for other engineers.
+* Experienced Senior Software Engineer with 15+ years of industry experience in developing, integrating, testing and supporting modern, big platforms.
+* 15+ years of expertise in Agile/Scrum methodologies in small to mid-sized companies and big enterprises.
+* Proven track record for delivering complex platforms such as the OTC Derivatives platform to the Brazilian capital markets (which had 400B dollars in assets by launch).
+* In-depth knowledge of a broad range of technologies and practices such as frontend (javascript), backend (java/python), databases (MySQL, PostgreSQL, Snowflake), CI/CD, DevOps and Machine Learning to name a few.
+* Skilled and provenly successful leading cross-functional teams in creating and delivering mission-critic platforms while continually providing mentorship for other engineers.
 
-* 🌍  I'm based in North Vancouver - BC - Canada
+* 🇧🇷  I am Brazilian
+* 🇨🇦  I'm based in North Vancouver - BC - Canada
 * ✉️  You can contact me at [joao.august.venancio@gmail.com](mailto:joao.august.venancio@gmail.com)
 * 🧠  I'm learning Rust, Go
 * 🤝  I'm open to collaborating on Open source projects involving any kind of software or tool I already use
